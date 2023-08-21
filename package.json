@@ -10,7 +10,7 @@
     "astro": "astro"
   },
   "devDependencies": {
-    "astro": "^2.6.1"
+    "astro": "^1.0.6"
   },
   "keywords": [],
   "description": "The official Astro Cloud Sandbox Template by the CodeSandbox team"
